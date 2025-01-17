@@ -1,2 +1,2 @@
-# FIT-App-Application-
+# FIT-App-LLM-
 This paper explores the use of AI in wearable technology to optimize physical recovery and training programs. 
